@@ -1,5 +1,5 @@
 {
-    "name": "microbit",
+    "name": "loading",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -8,11 +8,12 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "loading.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "installedVersion": "workspace:30783920-4c4a-4840-a4fd-8d0ba5825ff8"
 }
